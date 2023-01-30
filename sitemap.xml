@@ -10,110 +10,116 @@
 <!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
 
   <url>
-       <loc>https://letszock.com/</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/aboutme/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/übermich/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/futuristic/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/Kunstwerke/haus/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/setup/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/Kunstwerke/setup/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/animals/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/Kunstwerke/tier/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/cars/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/Kunstwerke/auto/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/houses/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/Kunstwerke/logo/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/logos/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/Kunstwerke/maskiert/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/noface/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/Kunstwerke/soldat/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/soldiers/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/Kunstwerke/sport/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/sports/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/Kunstwerke/frau/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/womans/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/post/woche5/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/post/week5/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/post/woche4/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/post/week4/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/post/woche3/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/post/week3/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/post/woche2/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/post/week2/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/Kunstwerke/futuristisch/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/imprint/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.de/feed</loc>
+       <lastmod>2023-01-30T21:29:47+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://letszock.de/impressum/index.html</loc>
+       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
