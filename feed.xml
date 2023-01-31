@@ -2,7 +2,7 @@
     <channel>
         <title>Let's zock! von TwentiesFour</title>
         <link>https://www.letszock.de/</link>
-        <description>Wöchentliche Updates zu neuen Videospielen und einzigartigen Kunstwerken</description>
+        <description>Monatliche Updates zu neuen Videospielen und einzigartigen Kunstwerken</description>
         <language>de</language>
         
         <image>
@@ -12,33 +12,17 @@
         </image>
 
         <item>
-            <title>Neue Videospiele ab Woche 5 von 2023!</title>
-            <description>Wöchentliche Updates zu neuen Videospielen und einzigartigen Kunstwerken.</description>
-            <link>https://letszock.de/post/woche5</link>
+            <title>Neue Videospiele im Februar 2023!</title>
+            <description>Monatliche Updates zu neuen Videospielen und einzigartigen Kunstwerken.</description>
+            <link>https://letszock.de/post/februar</link>
             <pubDate>Fri, 27 Jan 2023 01:00:00 +0100</pubDate>
             <dc:creator>TwentiesFour</dc:creator>
         </item>
 
         <item>
-            <title>Neue Videospiele ab Woche 4 von 2023!</title>
-            <description>Wöchentliche Updates zu neuen Videospielen und einzigartigen Kunstwerken.</description>
-            <link>https://letszock.de/post/woche4</link>
-            <pubDate>Fri, 19 Jan 2023 19:00:00 +0100</pubDate>
-            <dc:creator>TwentiesFour</dc:creator>
-        </item>
-
-        <item>
-            <title>Neue Videospiele ab Woche 3 von 2023!</title>
-            <description>Wöchentliche Updates zu neuen Videospielen und einzigartigen Kunstwerken.</description>
-            <link>https://letszock.de/post/woche3</link>
-            <pubDate>Wed, 18 Jan 2023 21:30:00 +0100</pubDate>
-            <dc:creator>TwentiesFour</dc:creator>
-        </item>
-
-        <item>
-            <title>Neue Videospiele ab Woche 2 von 2023!</title>
-            <description>Wöchentliche Updates zu neuen Videospielen und einzigartigen Kunstwerken.</description>
-            <link>https://letszock.de/post/woche2</link>
+            <title>Neue Videospiele im Januar 2023!</title>
+            <description>Monatliche Updates zu neuen Videospielen und einzigartigen Kunstwerken.</description>
+            <link>https://letszock.de/post/januar</link>
             <pubDate>Wed, 18 Jan 2023 19:30:00 +0100</pubDate>
             <dc:creator>TwentiesFour</dc:creator>
         </item>
