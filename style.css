@@ -194,6 +194,7 @@ button {
     margin: auto;
     display: block;
     padding: 5px; 
+    border-radius: 20px;
 }
 
 #artwork {
