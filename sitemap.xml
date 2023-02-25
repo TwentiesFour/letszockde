@@ -1,114 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="
-            http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-       <loc>https://letszock.de/</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
+       <loc>https://Letszock.de/</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
-       <loc>https://letszock.de/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
+       <loc>https://Letszock.de/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.de/übermich/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
+       <loc>https://Letszock.de/übermich/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.de/Kunstwerke/haus/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
+       <loc>https://Letszock.de/kunstwerke/welt/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://Letszock.de/kunstwerke/zwerg/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://Letszock.de/kunstwerke/pirat/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://Letszock.de/kunstwerke/wald/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://Letszock.de/kunstwerke/weltallkatze/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://Letszock.de/kunstwerke/caravan/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://Letszock.de/kunstwerke/stadt/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://Letszock.de/kunstwerke/schloss/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://Letszock.de/kunstwerke/haus/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://Letszock.de/kunstwerke/zauberer/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://Letszock.de/kunstwerke/lagerfeuer/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://Letszock.de/kunstwerke/kutsche/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://Letszock.de/kunstwerke/spiel/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://Letszock.de/feed</loc>
+       <lastmod>2023-02-25T18:21:55+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.de/Kunstwerke/setup/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
+       <loc>https://Letszock.de/impressum/index.html</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.de/Kunstwerke/tier/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
+       <loc>https://Letszock.de/übermich/</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.5120</priority>
   </url>
   <url>
-       <loc>https://letszock.de/Kunstwerke/auto/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
+       <loc>https://Letszock.de/impressum/</loc>
+       <lastmod>2023-02-24T23:25:10+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://letszock.de/Kunstwerke/logo/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://letszock.de/Kunstwerke/maskiert/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://letszock.de/Kunstwerke/soldat/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://letszock.de/Kunstwerke/sport/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://letszock.de/Kunstwerke/frau/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://letszock.de/post/februar/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://letszock.de/post/januar/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://letszock.de/Kunstwerke/futuristisch/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://letszock.de/feed</loc>
-       <lastmod>2023-01-30T21:29:47+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://letszock.de/impressum/index.html</loc>
-       <lastmod>2023-01-30T21:24:43+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.5120</priority>
   </url>
 </urlset>
